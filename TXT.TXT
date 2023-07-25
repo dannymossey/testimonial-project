@@ -1,0 +1,10 @@
+Testimonial using grid css and DOM JS potientally Events JS
+
+if(event.target = revOne){
+    removeClass
+    style.display = block
+
+}
+
+
+Look at transitions next 
